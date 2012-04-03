@@ -6,5 +6,7 @@ Contamos con la experiencia de haber llevado a buen puerto la [traducción de la
 
 Puedes consultar y colaborar con la traducción en <https://github.com/opensas/Play20Es/wiki>
 
-Para ir siguiendo nuestro progreso pueden consultar <https://github.com/opensas/Play20Es/wiki/Progress>. Recién empezamos, y estamos ansiosos por sumarte a nuestro equipo.
+Para ir siguiendo nuestro progreso pueden consultar <https://github.com/opensas/Play20Es/wiki/Progress>.
+
+Recién empezamos, y estamos ansiosos por sumarte a nuestro equipo.
 
